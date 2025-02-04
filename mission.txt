@@ -6,4 +6,21 @@
         2. J'ai fais commit -a donc j'ai ensuite du mettre le nom; (J'ai utilisé les commande :w pour sauvegarder
         et :q pour quitter).
 
-2/  1.
+2/  1. J'ai réussi à créer le repository perso vide
+
+    2. J'ai eu beaucoup d'erreurs pour lier les deux ainsi que pull le document README.txt
+    Finalement j'ai recréer un repository vide et push tout les documents dedans.
+
+    3.Je retrouve bien tout les documents ainsi que le code dans le commit d'initialisation.
+
+3/  1. Le clonage c'est passé sans problème.
+
+    2. $ git checkout -b documentation pour créer la branche documentation.
+
+    3. J'ai ajouté le fichier readme.md avec $ git add readme.md
+
+    4. $ git commit -m "ajout du readme" J'ai commit avec cette commande.
+
+    5. J'ai fais ca tout seul, et j'ai utilisé cette commande $ git push --set-upstream origin documentation
+
+    6. Le merge c'est fait sans problème.
