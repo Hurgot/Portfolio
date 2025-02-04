@@ -1,4 +1,9 @@
 1/  1. Je ne savais pas initialiser un repository git / J'ai cherché sur Internet et réussi
 
-    2. Je ne savais pas faire de commit / J'ai recherché la commande sur Internet / Erreur; mes fichier n'étaient pas ajouté 
+    2.  1. Je ne savais pas faire de commit / J'ai recherché la commande sur Internet / Erreur; mes fichier n'étaient pas ajouté 
         j'ai donc fais git add . 
+
+        2. J'ai fais commit -a donc j'ai ensuite du mettre le nom; (J'ai utilisé les commande :w pour sauvegarder
+        et :q pour quitter).
+
+2/  1.
