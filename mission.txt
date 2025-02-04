@@ -24,3 +24,8 @@
     5. J'ai fais ca tout seul, et j'ai utilisé cette commande $ git push --set-upstream origin documentation
 
     6. Le merge c'est fait sans problème.
+
+Pour sauvegarder ce fichier j'ai fais :
+git add mission.txt
+git commit mission.txt
+git push
